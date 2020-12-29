@@ -1,3 +1,4 @@
 select * from test where emp_id = "1";
 select * from dual;
 select * from test where emp_id = "1" order by emp_id;
+select * from test where emp id <= 10 order by name;
